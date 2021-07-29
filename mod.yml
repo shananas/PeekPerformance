@@ -1,4 +1,5 @@
 name: Why?
+assets:
 - name: itempic/item-324.imd #Fire
   method: imd
   source:
