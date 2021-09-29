@@ -356,7 +356,7 @@ assets:
   method: copy
   source:
   - name: menu/puzzle020.bin
-- name: menu/fm/jm_puzzle/puzzle020.bin
+- name: menu/fm/jm_puzzle/puzzle050.bin
   method: copy
   source:
-  - name: menu/puzzle020.bin
+  - name: menu/puzzle050.bin
