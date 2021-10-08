@@ -391,6 +391,6 @@ assets:
   source:
   - name: msg\fontimage.bar
 - name: msg\us\fontimage.bar
-    method: copy
-    source:
-    - name: msg\USfontimage.bar
+  method: copy
+  source:
+  - name: msg\USfontimage.bar
